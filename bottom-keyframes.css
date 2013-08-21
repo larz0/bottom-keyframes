@@ -6,3 +6,7 @@
 #bottom-keyframes-icon.active {
     background-position: 0 -24px !important;
 }
+
+#bottom-keyframes-iframe {
+    background: #fff;
+}
