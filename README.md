@@ -2,18 +2,18 @@
 
 This is a [Brackets](http://brackets.io) extension that allows you to generator keyframes in a visual way.
 
-![Bottom Keyframes Screenshot](http://f.cl.ly/items/280s0S1F453K0I3O030H/Screen%20Shot%202013-08-20%20at%209.56.00%20PM.png)
+![Bottom Keyframes Screenshot](http://f.cl.ly/items/1V0B313x041n420U3P2b/bottom-keyframes.png)
 
 ### Installation
 
-* Select **File > Extension Manager...** (or click the "lego brick" icon in the toolbar)
+* Select **File > Extension Manager...** (or click the "moving ball" icon in the toolbar)
 * Click **Install from URL...**
 * Enter the url of this repo: https://github.com/larz0/bottom-keyframes
 * Click **Install**
 
 ### How to use
 
-* Click the "graph" icon in the toolbar to open and close the panel; the panel can be resized vertically.
+* Click the "moving ball" icon in the toolbar to open and close the panel; the panel can be resized vertically.
 
 ### Credits
 
