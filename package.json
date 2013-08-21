@@ -1,0 +1,12 @@
+{
+    "name": "larz0.bottom-keyframes",
+    "title": "Bottom Keyframes",
+    "description": "Animation Playground and Generator",
+    "homepage": "https://github.com/larz0/bottom-keyframes",
+    "version": "0.0.1",
+    "author": "Larz (http://github.com/larz0)",
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.27.0"
+    }
+}

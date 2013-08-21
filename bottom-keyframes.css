@@ -1,0 +1,8 @@
+/* Toolbar Icon */
+#bottom-keyframes-icon {
+    background: url(keyframes-sprite.svg);
+}
+
+#bottom-keyframes-icon.active {
+    background-position: 0 -24px !important;
+}
