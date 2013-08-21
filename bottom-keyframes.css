@@ -1,6 +1,6 @@
 /* Toolbar Icon */
 #bottom-keyframes-icon {
-    background: url(keyframes-sprite.svg);
+    background-image: url(keyframes-sprite.svg);
 }
 
 #bottom-keyframes-icon.active {
