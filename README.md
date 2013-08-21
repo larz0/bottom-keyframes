@@ -2,7 +2,7 @@
 
 This is a [Brackets](http://brackets.io) extension that allows you to generator keyframes in a visual way.
 
-![Bottom Keyframes Screenshot](http://f.cl.ly/items/1W1r2z072R07140c430C/bottom-bezier.png)
+![Bottom Keyframes Screenshot](http://f.cl.ly/items/280s0S1F453K0I3O030H/Screen%20Shot%202013-08-20%20at%209.56.00%20PM.png)
 
 ### Installation
 
